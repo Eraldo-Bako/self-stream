@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=SelfStream
+GenericName=Open Source Streaming tool
+Exec=cd custom-packages/self-stream && npm start
+Categories=System;Browser;Video;
+Icon=video
